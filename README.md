@@ -34,7 +34,9 @@ The following steps were performed during the practical:
 4. Files in the Project
 
 "etl_file.py"            ---> Contains the PySpark ETL logic
+
 "config.conf"               ---> Contains input path, output path and log file configuration
+
 "Spark_Submit_shell_conf_script.sh"    ----> Shell script used to execute the Spark job
 
 5. Linux and HDFS Operations
